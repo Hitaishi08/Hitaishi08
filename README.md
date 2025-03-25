@@ -45,7 +45,16 @@
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hitaishi08&" alt="hitaishi08" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hitaishi08&show_icons=true&locale=en" alt="hitaishi08" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hitaishi08&show_icons=true&locale=en&layout=compact" alt="hitaishi08" /></p>
+<h3 align="left">GitHub Stats:</h3>
+<div align="left">
+   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hitaishi08&" alt="hitaishi08" /></p>
+</div>
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=hitaishi08&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+</div>
+
+<div align="left">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hitaishi08&show_icons=true&locale=en&layout=compact&theme=dark" alt="Top Languages" />
+</div>
 
