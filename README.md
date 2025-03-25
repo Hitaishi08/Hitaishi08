@@ -47,11 +47,11 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div align="left">
-   <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hitaishi08&" alt="hitaishi08" /></p>
+   <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hitaishi08&" alt="hitaishi08" />
 </div>
 
-<div align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=hitaishi08&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
+<div align="left" style="margin: 1rem;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hitaishi08&show_icons=true&locale=en&theme=dark&ayout=compact" alt="GitHub Stats" />
 </div>
 
 <div align="left">
