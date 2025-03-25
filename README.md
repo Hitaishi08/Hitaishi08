@@ -50,7 +50,7 @@
    <p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=hitaishi08&" alt="hitaishi08" /></p>
 </div>
 
-<div align="center">
+<div align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=hitaishi08&show_icons=true&locale=en&theme=dark" alt="GitHub Stats" />
 </div>
 
