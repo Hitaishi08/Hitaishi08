@@ -5,7 +5,7 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <b>Nexia (Project Management Web application)</b></li></br>
+        <li>🔭 I’m currently learning <b>springBoot framework</b></li></br>
         <li>👯 I’m looking to collaborate on <b>MERN Projects</b></li></br>
         <li>💬 Ask me about <b>Node.js, Express.js, MySQL</b></li></br>
         <li>📫 How to reach me: <b>hitaishisinghaniya@gmail.com</b></li></br>
